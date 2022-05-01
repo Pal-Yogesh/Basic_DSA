@@ -17,9 +17,10 @@ public class MultiDimensional_I_O {
         }
         for (i=0;i<n;i++) {
             for (j = 0; j < m; j++) {
-                System.out.print(arr[i][j]+" ");
+                System.out.print(arr[i][j] + " ");
             }
             System.out.println();
+
         }
     }
 

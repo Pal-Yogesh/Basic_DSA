@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Coll_fwok {
-    
+
     public static void main(String[] args) {
         HashMap<Integer,Integer>obj = new HashMap<>();
         obj.put(10,100);
